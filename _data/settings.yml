@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'My CV',      url: 'documentation'}
+- {name: 'My CV',      url: 'https://joseluismateos.github.io/mycv'}
 - {name: 'Publications', url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
