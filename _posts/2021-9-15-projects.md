@@ -10,8 +10,8 @@ image: projects.jpg
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
-      width="300"
-      height="200"
+      width="800"
+      height="800"
       src="projects/test_mapa.html">
   </iframe>
 </div>
