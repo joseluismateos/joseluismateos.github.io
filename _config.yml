@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "JOSÉ LUIS MATEOS GONZÁLEZ, Ph.D //"
 description:	       "Social Scientist & Data Analyst"
-author:              "Paul Le"
+author:              "José Luis Mateos González"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
