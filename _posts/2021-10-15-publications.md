@@ -4,6 +4,6 @@ title: "My publications"
 author: "José Luis Mateos González"
 categories: documentation
 tags: [documentation,sample]
-image: golden_profile2_auto_x2.jpg
+image: biblio.jpg
 ---
 
