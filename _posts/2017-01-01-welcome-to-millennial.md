@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Who I am: Educational background and Work experience (CV)"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
