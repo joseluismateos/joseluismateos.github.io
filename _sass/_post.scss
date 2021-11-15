@@ -13,7 +13,7 @@
   align: middle;
   margin: 5px auto 25px;
   display: block;
-  max-width: 600px;
+  max-width: 400px;
 }
 @media (max-width: $container-width) {
   .post-content {
@@ -25,7 +25,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: 60vw;
+    max-width: 30vw;
   }
 }
 @media (max-width: $tablet-width) {
