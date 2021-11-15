@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "JOSÉ LUIS MATEOS GONZÁLEZ, Ph.D //"
-description:	       "Social Scientist & Data Analyst"
+title:		           "JOSÉ LUIS MATEOS GONZÁLEZ, Ph.D // Social Scientist & Data Analyst"
+description:	       "This is my personal website"
 author:              "José Luis Mateos González"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
