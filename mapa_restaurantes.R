@@ -57,7 +57,7 @@ leaflet(test) %>%
     stroke = TRUE,
     weight = 1) %>%
   addMarkers(
-    data = test,
+    data = test, label = test$NOM_COMERCIAL.x,
     group = 'sitios', # this is the group to use in addSearchFeatures()
     # make custom icon that is so small you can't see it:
     icon = makeIcon( 
