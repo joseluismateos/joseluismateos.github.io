@@ -7,6 +7,8 @@ tags: [documentation,sample]
 image: projects.jpg
 ---
 
+Here I share some  of the Data Visualization projects I have been developing out of sheer curiosity! I hope you enjoy visualizing and understanding social data as much as I do.
+
 ## Income distribution in the Barcelona province
 
 <div>
