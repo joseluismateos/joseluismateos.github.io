@@ -14,7 +14,7 @@ Here I share some  of the Data Visualization projects I have been developing out
 <div>
   <iframe
       frameBorder="0"
-      width="150%"
+      width="100%"
       height="800"
       src="projects/mapa_municipis.html">
   </iframe>
