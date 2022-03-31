@@ -7,6 +7,17 @@ tags: [documentation,sample]
 image: projects.jpg
 ---
 
+## Income distribution in the Barcelona province
+
+<div>
+  <iframe
+      frameBorder="0"
+      width="100%"
+      height="800"
+      src="projects/mapa_municipis.html">
+  </iframe>
+</div>
+
 ## Sample project on Data Viz - People with Higher Education as a % of total population (El Prat de Llobregat)
 
 <div>
