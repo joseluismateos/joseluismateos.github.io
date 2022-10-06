@@ -25,7 +25,7 @@ Here I share some  of the Data Visualization projects I have been developing out
 <div>
   <iframe
       frameBorder="0"
-      width="100%"
+      width="80%"
       height="800"
       src="projects/test_mapa.html">
   </iframe>
