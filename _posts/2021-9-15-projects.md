@@ -29,6 +29,7 @@ The following two maps have been produced using the programming language R:
       frameBorder="0"
       width="60%"
       height="800"
+      style="margin-left: -25px
       src="projects/test_mapa.html">
   </iframe>
 </div>
