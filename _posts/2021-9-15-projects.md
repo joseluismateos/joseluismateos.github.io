@@ -9,6 +9,8 @@ image: projects.jpg
 
 Here I share some  of the Data Visualization projects I have been developing out of sheer curiosity! I hope you enjoy visualizing and understanding social data as much as I do.
 
+The following two maps have been produced using the programming language R:
+
 ## Income distribution in the Barcelona province
 
 <div>
@@ -20,7 +22,7 @@ Here I share some  of the Data Visualization projects I have been developing out
   </iframe>
 </div>
 
-## Sample project on Data Viz - People with Higher Education as a % of total population (El Prat de Llobregat)
+## People with Higher Education as a % of total population by censal district in my hometown (El Prat de Llobregat)
 
 <div>
   <iframe
