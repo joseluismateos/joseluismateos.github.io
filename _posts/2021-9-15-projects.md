@@ -33,3 +33,12 @@ The data from this map comes from [El Prat de Llobregat's open data portal](http
       src="projects/test_mapa.html">
   </iframe>
 </div>
+
+
+## Test Datawrapper
+<div>
+
+<iframe title="Competències que més haurien de millorar les persones graduades en Enginyeries de la Producció segons el col·lectiu ocupador" aria-label="Table" id="datawrapper-chart-mThL7" src="https://datawrapper.dwcdn.net/mThL7/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1191" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+</div>
