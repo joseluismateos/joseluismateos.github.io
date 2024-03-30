@@ -1,4 +1,4 @@
-<---
+---
 layout: post
 title: "Projects"
 author: "José Luis Mateos González"
