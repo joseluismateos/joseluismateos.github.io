@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projects"
+title: "Sample Data Visualizations"
 author: "José Luis Mateos González"
 categories: documentation
 tags: [documentation,sample]
