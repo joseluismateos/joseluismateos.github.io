@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'My CV',      url: 'mycv'}
 - {name: 'Publications', url: 'publications'}
-- {name: 'Sample Data Vizualizations', url: 'projects'}
+- {name: 'Sample Data Vizualizations', url: 'sample_dataviz'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
