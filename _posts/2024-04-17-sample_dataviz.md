@@ -11,6 +11,8 @@ Here I share some sample **Data Visualizations** I have been developing out of s
 
 <div style="min-height:829px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/XYKOI/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/XYKOI/full.png" alt="" /></noscript></div>
 
+
+
 ## Income distribution in the Barcelona province
 
 <div>
@@ -21,6 +23,8 @@ Here I share some sample **Data Visualizations** I have been developing out of s
       src="projects/mapa_municipis2.html">
   </iframe>
 </div>
+
+
 
 ## People with Higher Education as a % of total population by censal district in my hometown (El Prat de Llobregat)
 The data from this map comes from [El Prat de Llobregat's open data portal](https://seu-e.cat/ca/web/elpratdellobregat/dades-obertes)
